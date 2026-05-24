@@ -77,6 +77,7 @@ while True:
 s.close()
 ```
 ## OUPUT - ARP
+<img width="997" height="501" alt="image" src="https://github.com/user-attachments/assets/0039d538-df2a-4ee2-8b5e-6c804b12aced" />
 
 ## PROGRAM - RARP
 ```
@@ -127,6 +128,8 @@ while True:
     print("Logical Address :", result)
 ```
 ## OUPUT -RARP
+<img width="1028" height="312" alt="image" src="https://github.com/user-attachments/assets/cff7793b-a289-49d6-b800-464457a6bba8" />
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
